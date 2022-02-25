@@ -6,4 +6,5 @@
 - 📫 Me puedes contactar [aquí](mailto:brunoph26@gmail.com)
 
 Tech Skills: 
-![Web_Dev_Icons](https://user-images.githubusercontent.com/87345401/155755911-263beb1a-cd22-418d-ac88-a9691450d081.png)
+
+![Web_Dev_Icons](https://user-images.githubusercontent.com/87345401/155767069-1fb16dd0-c70c-467d-8acc-e3d3f00dfdd0.png)
